@@ -10,11 +10,11 @@ export default class Home extends Component {
           <Carousel.Item className="home-carousel-item">
             <img
               className="d-block w-100 h-20"
-              src="https://images.unsplash.com/photo-1619612200694-69b4d3d13e4b?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+              src="https://thumbs.dreamstime.com/b/medicine-doctor-analysis-electronic-medical-record-interface-display-dna-digital-healthcare-network-connection-hologram-162019589.jpg"
               alt="First slide"
             />
             <Carousel.Caption>
-              <h3>Welcome to WeSave 1</h3>
+              <h3>Welcome to WeSave </h3>
               <p>
                 Our mission is to detect cancer early when it is manageable.
               </p>
@@ -23,12 +23,12 @@ export default class Home extends Component {
           <Carousel.Item className="home-carousel-item">
             <img
               className="d-block w-100 h-20"
-              src="https://images.unsplash.com/photo-1498429089284-41f8cf3ffd39?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHdhbGxwYXBlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+              src="https://thumbs.dreamstime.com/b/medical-science-scientific-research-abstract-backdrop-62195483.jpg"
               alt="Second slide"
             />
 
             <Carousel.Caption>
-              <h3>Welcome to WeSave 2</h3>
+              <h3>Welcome to WeSave </h3>
               <p>
                 Our mission is to detect cancer early when it is manageable.
               </p>
@@ -37,12 +37,12 @@ export default class Home extends Component {
           <Carousel.Item className="home-carousel-item">
             <img
               className="d-block w-100 h-20"
-              src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGVhbHRofGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+              src="https://thumbs.dreamstime.com/b/doctor-medical-assistant-robot-analysis-testing-result-dna-modern-virtual-interface-science-technology-innovative-future-163033177.jpg"
               alt="Third slide"
             />
 
             <Carousel.Caption>
-              <h3>Welcome to WeSave 3</h3>
+              <h3>Welcome to WeSave </h3>
               <p>
                 Our mission is to detect cancer early when it is manageable.
               </p>

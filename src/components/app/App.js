@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <HashRouter>
         <div className="page-container">
-          <h1>We Care</h1>
+          <h1>WeSave</h1>
           <ul className="header">
             <li>
               <NavLink exact to="/">
