@@ -9,9 +9,9 @@ export default class About extends Component {
   render() {
     return (
       <div>
-        <h2>WE ARE WECARE</h2>
+        <h2>WE ARE WESAVE</h2>
         <p>
-          At WeCare we believe we are taking one of the biggest challenges to
+          At WeSave we believe we are taking one of the biggest challenges to
           make cancer manageable by combining the power of nanotechnology with
           the clinical oncology.
         </p>
