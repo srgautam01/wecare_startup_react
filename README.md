@@ -1,4 +1,4 @@
-##WeSave React Application        
+## WeSave React Application        
 A webpage application objected for startup company that allows users to know about the company and 
 its motives.The application provides the information about the company and its product on the homepage, contact 
 information and about the members of the company.
@@ -8,14 +8,14 @@ the users.
 ![Screenshot](./public/static/wesave1-2021-05-11_14.04.19.gif)
 
 
-#Technical Specification
+## Technical Specification
 A "battery-included" React project with ssh connected for efficient and secure operation of the web page.
 A responsive frontend designed using Bootstrap, css
 Nginx server used for web serving, reverse proxying, caching, load balancing for maximum performance and stability. 
 Deployed  using domain name http://wesave.live
 
 
-##Author
+## Author
 Sundar Raj Gautam
 
 
